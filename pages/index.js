@@ -10,5 +10,5 @@ export default function Home() {
     //isnt't that centralized??
     //1.Moralis does it in centralized way and comes with ton of other features  and is quicker, an your logic is still 100% on chain
     //2.Graph does it in decentralized way
-    return <div className={styles.container}>Hi</div>
+    return <div className={styles.container}>Hel</div>
 }
